@@ -1,3 +1,9 @@
 # PreProcessing-breakfast-analyzes
 
-- coeficiente de correlação de Pearson
+- Pearson's correlation coefficient
+
+Discoveries:
+
+- Those who drink coffee don't drink tea. :D
+
+More..
